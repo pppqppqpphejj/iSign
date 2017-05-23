@@ -2,11 +2,11 @@
 //  main.swift
 //  iSign
 //
-//  Created by A on 2017/5/15.
+//  Created by A on 2017/4/26.
 //  Copyright © 2017年 A. All rights reserved.
 //
 
 import Foundation
 
-print("Hello, World!")
+CodeSignHelper().codeSign()
 
